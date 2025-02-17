@@ -1,0 +1,17 @@
+{
+  "initial": [
+    "MAMÁ", "PAPÁ", "LECHE", "BEBÉ", "AMOR",
+    "GATO", "PERRO", "PELOTA", "LIBRO", "JUGAR",
+    "ABRAZO", "BESO", "COMER", "DORMIR", "SONRISA"
+  ],
+  "progression": [
+    "CASA", "ÁRBOL", "PÁJARO", "PEZ", "MANO", "PIE", "CABEZA", "NARIZ", "OJOS",
+    "SALTAR", "CORRER", "CAMINAR", "SENTAR", "PARAR", "BEBER", "LEER", "CANTAR", "BAILAR",
+    "GRANDE", "PEQUEÑO", "CALIENTE", "FRÍO", "RÁPIDO", "LENTO", "BUENO", "MALO", "FELIZ",
+    "HERMANA", "HERMANO", "ABUELA", "ABUELO", "FAMILIA", "AMIGO",
+    "JUGUETE", "SILLA", "MESA", "PUERTA", "CAMA", "ZAPATO", "SOMBRERO", "TAZA", "CUCHARA",
+    "PATO", "VACA", "CERDO", "CABALLO", "OVEJA", "RATÓN", "OSO", "LEÓN",
+    "SOL", "LUNA", "ESTRELLA", "LLUVIA", "NIEVE", "VIENTO", "NUBE",
+    "ROJO", "AZUL", "VERDE", "AMARILLO", "NEGRO", "BLANCO"
+  ]
+}

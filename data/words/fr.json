@@ -1,0 +1,17 @@
+{
+  "initial": [
+    "MAMAN", "PAPA", "LAIT", "BÉBÉ", "AMOUR",
+    "CHAT", "CHIEN", "BALLE", "LIVRE", "JOUER",
+    "CÂLIN", "BISOU", "MANGER", "DORMIR", "SOURIRE"
+  ],
+  "progression": [
+    "MAISON", "ARBRE", "OISEAU", "POISSON", "MAIN", "PIED", "TÊTE", "NEZ", "YEUX",
+    "SAUTER", "COURIR", "MARCHER", "ASSEOIR", "DEBOUT", "BOIRE", "LIRE", "CHANTER", "DANSER",
+    "GRAND", "PETIT", "CHAUD", "FROID", "VITE", "LENT", "BON", "MAUVAIS", "HEUREUX",
+    "SŒUR", "FRÈRE", "MAMIE", "PAPI", "FAMILLE", "AMI",
+    "JOUET", "CHAISE", "TABLE", "PORTE", "LIT", "CHAUSSURE", "CHAPEAU", "TASSE", "CUILLÈRE",
+    "CANARD", "VACHE", "COCHON", "CHEVAL", "MOUTON", "SOURIS", "OURS", "LION",
+    "SOLEIL", "LUNE", "ÉTOILE", "PLUIE", "NEIGE", "VENT", "NUAGE",
+    "ROUGE", "BLEU", "VERT", "JAUNE", "NOIR", "BLANC"
+  ]
+}

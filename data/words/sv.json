@@ -1,0 +1,17 @@
+{
+  "initial": [
+    "MAMMA", "PAPPA", "MJÖLK", "BEBIS", "KÄRLEK",
+    "KATT", "HUND", "BOLL", "BOK", "LEKA",
+    "KRAM", "PUSS", "ÄTA", "SOVA", "LEENDE"
+  ],
+  "progression": [
+    "HUS", "TRÄD", "FÅGEL", "FISK", "HAND", "FOT", "HUVUD", "NÄSA", "ÖGON",
+    "HOPPA", "SPRINGA", "GÅ", "SITTA", "STÅ", "DRICKA", "LÄSA", "SJUNGA", "DANSA",
+    "STOR", "LITEN", "VARM", "KALL", "SNABB", "LÅNGSAM", "BRA", "DÅLIG", "GLAD",
+    "SYSTER", "BROR", "MORMOR", "MORFAR", "FAMILJ", "VÄN",
+    "LEKSAK", "STOL", "BORD", "DÖRR", "SÄNG", "SKO", "HATT", "KOPP", "SKED",
+    "ANKA", "KO", "GRIS", "HÄST", "FÅR", "MUS", "BJÖRN", "LEJON",
+    "SOL", "MÅNE", "STJÄRNA", "REGN", "SNÖ", "VIND", "MOLN",
+    "RÖD", "BLÅ", "GRÖN", "GUL", "SVART", "VIT"
+  ]
+}

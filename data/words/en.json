@@ -1,0 +1,17 @@
+{
+  "initial": [
+    "MOMMY", "DADDY", "MILK", "BABY", "LOVE",
+    "CAT", "DOG", "BALL", "BOOK", "PLAY",
+    "HUG", "KISS", "EAT", "SLEEP", "SMILE"
+  ],
+  "progression": [
+    "HOUSE", "TREE", "BIRD", "FISH", "HAND", "FOOT", "HEAD", "NOSE", "EYES",
+    "JUMP", "RUN", "WALK", "SIT", "STAND", "DRINK", "READ", "SING", "DANCE",
+    "BIG", "SMALL", "HOT", "COLD", "FAST", "SLOW", "GOOD", "BAD", "HAPPY",
+    "SISTER", "BROTHER", "GRANDMA", "GRANDPA", "FAMILY", "FRIEND",
+    "TOY", "CHAIR", "TABLE", "DOOR", "BED", "SHOE", "HAT", "CUP", "SPOON",
+    "DUCK", "COW", "PIG", "HORSE", "SHEEP", "MOUSE", "BEAR", "LION",
+    "SUN", "MOON", "STAR", "RAIN", "SNOW", "WIND", "CLOUD",
+    "RED", "BLUE", "GREEN", "YELLOW", "BLACK", "WHITE"
+  ]
+}
